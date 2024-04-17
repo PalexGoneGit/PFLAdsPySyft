@@ -1,0 +1,2 @@
+# PersonalizedFederatedLearningAdvertisingPySyft
+Personalized Federated Learning for Online Advertising in PySyft
