@@ -10,8 +10,10 @@ Implementation of several Personalized Federated Learning (PFL) and Federated Le
 - Discussion of results and (dis)advantages of implemented architectures
 
 ## Results
+The following are uploaded as CSV files in the Results folder
 
-- Metrics of implementations upload as a CSV file in the Results folder
+- Metrics of implementations 
+- Summary metrics
 
 ## Thesis
 
