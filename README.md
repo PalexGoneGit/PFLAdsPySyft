@@ -3,11 +3,15 @@
 ## Summary
 Implementation of several Personalized Federated Learning (PFL) and Federated Learning (FL) architectures via PySyft. This was done for my Master's Thesis. 
 
-## Results
+## Findings
 
 - Implementations of FL and PFL through model aggregation and passing of model dictionaries through PySyft
 - Description and analysis of performance metrics of FL and PFL architecture
 - Discussion of results and (dis)advantages of implemented architectures
+
+## Results
+
+- Metrics of implementations upload as a CSV file in the Results folder
 
 ## Thesis
 
