@@ -1,4 +1,5 @@
-# Personalized Federated Learning for Advertising in PySyft
+#PySyft for Personalized Federated Advertising
+
 
 ## Summary
 Implementation of several Personalized Federated Learning (PFL) and Federated Learning (FL) architectures via PySyft. This was done for my Master's Thesis. 
