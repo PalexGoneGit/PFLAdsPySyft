@@ -1,4 +1,4 @@
-#PySyft for Personalized Federated Advertising
+# PySyft for Personalized Federated Advertising
 
 
 ## Summary
