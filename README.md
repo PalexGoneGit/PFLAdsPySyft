@@ -30,11 +30,11 @@ The dataset linked under sources needs to be downloaded to replicate the results
 ### Dataset Modifications
 Each dataset has three variants:
 - Regular (unchanged)
-- Faktor 2 (where the first data selice's numerical values are multiplied by 2, the second's are divided by 2  )
-- Random Noise (where random noise was added to the first data slice, and the second reamins the same)
+- Faktor 2 (where the first data slice's numerical values are multiplied by 2, the second's are divided by 2  )
+- Random Noise (where random noise was added to the first data slice, and the second remains the same)
 
 ### Architectures
-Each dataset modification has four variants. Each notebooks represetns one such variant.
+Each dataset modification has four variants. Each notebook represents one such variant.
 - Central (Non-Federated)
 - FedAvg (FL)
 - APFL (A version of PFL)
@@ -52,7 +52,7 @@ The data was accessed <a href="https://tianchi.aliyun.com/dataset/144733">here</
 The DLRM model used for this implementation was based <a href="https://www.kaggle.com/code/egordm/deep-learning-recommendation-model-dlrm">this public Kaggle Submission for the challenge</a>. The submission is an implementation of [this paper ](https://arxiv.org/abs/1906.00091)in Tensorflow.
 
 ### Federated Architectures
-All Implementations are simplified versions of published Federated Learning achritectures:
+All Implementations are simplified versions of published Federated Learning architectures:
 
 </td>
 <td valign="top">
